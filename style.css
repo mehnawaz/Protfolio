@@ -246,6 +246,10 @@ button {
 }
 
 /* 4 About */
+#abimg img{
+    width: 500px;
+}
+
 .about_wrapper ul.nav-pills {
     border: 1px solid var(--gray-color);
     border-radius: 50px;
